@@ -1,7 +1,5 @@
 👾 Welcome to My GitHub Wonderland! 🌀
 
-![alt text](della.jpeg)
-
 👋 Hey There, I’m Jeevan Dsouza! 💥
 Software Sorcerer ⚡ | Full Stack Alchemist 🔮 | Open Source Fanatic 🐱‍💻
 🌟 About Me in 10 Seconds or Less
