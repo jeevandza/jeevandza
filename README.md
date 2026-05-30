@@ -32,7 +32,7 @@ const Jeevan = {
   currentlyLearning: ["Rust 🦀"],
   funFact:    "Still loading... ☄️"
 };
-` ` `
+```
 
 ---
 
@@ -72,11 +72,11 @@ const Jeevan = {
 ## 📌 Featured Repos
 
 <p align="center">
-  <a href="https://github.com/jeevandza/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevandza&repo=REPO_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/jeevandza/rust_backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevandza&repo=rust_backend&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/jeevandza/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevandza&repo=REPO_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/jeevandza/Fullstack-E-commerce-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevandza&repo=Fullstack-E-commerce-app&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -93,19 +93,3 @@ const Jeevan = {
 ---
 
 <p align="center">⭐ If you've made it this far, you've earned a cookie 🍪 — go smash that Follow button!</p>
-```
-
----
-
-**What each section adds:**
-
-- `count_private=true` on the stats card — counts your private repo contributions too, so your numbers look accurate
-- **Streak stats** — shows current streak, longest streak, and total contributions
-- **Activity graph** — the full green wave chart of your daily commits over the past year
-- **Trophies** — auto-awards badges for stars, commits, PRs, followers, etc.
-- **Pinned repo cards** — replace `rust_backend` and `Fullstack-E-commerce-app` with your actual repo names (you can add up to 4-6 of these)
-
-**Replacements to make:**
-- `jeevandza` → your GitHub username everywhere
-- `REPO_1`, `REPO_2` → your best repo names (exact repo name from the URL)
-- LinkedIn, email, portfolio links
