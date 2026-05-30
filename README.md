@@ -61,33 +61,12 @@ const Jeevan = {
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevandza&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📌 Featured Repos
-
-<p align="center">
-  <a href="https://github.com/jeevandza/rust_backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevandza&repo=rust_backend&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/jeevandza/Fullstack-E-commerce-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevandza&repo=Fullstack-E-commerce-app&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jeevan-dsouza-2214a6110/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jeevandsouza94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://jeevandsouza.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
