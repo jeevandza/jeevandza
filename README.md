@@ -49,6 +49,7 @@ const Jeevan = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeevandza&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeevandza&theme=tokyonight&utcOffset=5.5" />
 </p>
+
 ---
 
 ## 🔥 Streak & Contributions
@@ -61,9 +62,11 @@ const Jeevan = {
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevandza&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeevandza/jeevandza/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeevandza/jeevandza/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/jeevandza/jeevandza/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
