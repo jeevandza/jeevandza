@@ -54,7 +54,7 @@ const Jeevan = {
 
 ## 🔥 Streak & Contributions
 
-<p pointer-events="none" align="center">
+<p style="pointer-events: none; text-align: center;">
   <img pointer-events="none" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevandza&theme=tokyonight&hide_border=true" />
 </p>
 
