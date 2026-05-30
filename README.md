@@ -1,38 +1,70 @@
-👾 Welcome to My GitHub Wonderland! 🌀
+<h1 align="center">Hey, I'm Jeevan Dsouza 👋</h1>
 
-👋 Hey There, I’m Jeevan Dsouza! 💥
-Software Sorcerer ⚡ | Full Stack Alchemist 🔮 | Open Source Fanatic 🐱‍💻
-🌟 About Me in 10 Seconds or Less
-💻 Full-stack wizard (JS, Node.js, React...and snacks 🍕)
-🛠 Building cool things, one bug at a time 🐛
-🌐 Founder of multiple side projects nobody asked for 💡
-🤖 Addicted to coding challenges and coffee ☕
-🤹 What I Do When I'm Not Coding
-🎬 Cooking up dark comedy ideas to make the internet laugh
-🌏 Travelling between infinity like a professional nomad 🛤️
+<p align="center">
+  <b>Full Stack Developer</b> · MERN Enthusiast · Open Source Fanatic
+</p>
 
-🔥 Skills I Can Brag About
-javascript
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="profile views" />
+</p>
 
-const Skills = {
-  languages: ['JavaScript', 'TypeScript', 'Node.js', 'SQL', 'MongoDB'],
-  frontend: ['React', 'Next.js'],
-  backend: ['NestJS', 'Express.js', 'AWS', 'CI/CD Basics'],
-  databases: ['MongoDB', 'PostgreSQL', SQL],
-  tools: ['GitHub', 'Docker', 'SendGrid', 'AWS S3',],
-  funStuff: ['MERN Stack Jedi', 'Dark Comedy Enthusiast',]
+---
+
+## 🧑‍💻 About Me
+
+- 🔨 Building MERN-based products that actually ship
+- 🌐 Founder of multiple side projects nobody asked for (but everyone needs)
+- 🎬 Cooking up dark comedy ideas between commits
+- 🦀 Learning Rust — the target is in sight, sleep is not
+- ☕ Powered by coffee and Stack Overflow
+
+---
+
+## 🔥 Tech Stack
+
+```javascript
+const Jeevan = {
+  languages:  ["JavaScript", "TypeScript", "SQL"],
+  frontend:   ["React", "Next.js"],
+  backend:    ["Node.js", "NestJS", "Express.js"],
+  databases:  ["MongoDB", "PostgreSQL"],
+  tools:      ["Docker", "AWS S3", "GitHub Actions", "SendGrid"],
+  currentlyLearning: ["Rust 🦀"],
+  funFact:    "Still loading... ☄️"
 };
+```
 
-🧠 Currently Working On...
-🛠 MERN-based products (because product life is 🔥)
-📝 Writing tutorials and probably making some good jokes
-🪐Trying to find sleep
-🎯Rust is the target sight
+---
 
+## 📊 GitHub Stats
 
-🎉 A Random Fact About Me:
-Still Loading☄️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-⭐ Fun fact: If you’ve made it this far, you deserve a cookie 🍪! Now go smash that Follow button!
-Enjoy the craziness and feel free to clone or star anything you like! 😜
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">⭐ If you've made it this far, you've earned a cookie 🍪 — go smash that Follow button!</p>
