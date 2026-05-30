@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jeevandza&style=flat-square&color=blue" alt="profile views" />
 </p>
 
 ---
@@ -39,8 +39,8 @@ const Jeevan = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevandza&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevandza&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ const Jeevan = {
 ## 🔥 Streak & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevandza&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ const Jeevan = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevandza&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ const Jeevan = {
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevandza&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -72,11 +72,11 @@ const Jeevan = {
 ## 📌 Featured Repos
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/jeevandza/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevandza&repo=REPO_1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/jeevandza/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevandza&repo=REPO_2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -103,9 +103,9 @@ const Jeevan = {
 - **Streak stats** — shows current streak, longest streak, and total contributions
 - **Activity graph** — the full green wave chart of your daily commits over the past year
 - **Trophies** — auto-awards badges for stars, commits, PRs, followers, etc.
-- **Pinned repo cards** — replace `REPO_1` and `REPO_2` with your actual repo names (you can add up to 4-6 of these)
+- **Pinned repo cards** — replace `rust_backend` and `Fullstack-E-commerce-app` with your actual repo names (you can add up to 4-6 of these)
 
 **Replacements to make:**
-- `YOUR_USERNAME` → your GitHub username everywhere
+- `jeevandza` → your GitHub username everywhere
 - `REPO_1`, `REPO_2` → your best repo names (exact repo name from the URL)
 - LinkedIn, email, portfolio links
